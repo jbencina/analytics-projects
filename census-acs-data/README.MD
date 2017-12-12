@@ -9,6 +9,8 @@ short description, and summary statistics
 
 Data can be accessed at BigQuery https://bigquery.cloud.google.com/dataset/jbencina-144002:census
 
+A CSV copy of the data is also contained in the repo's zip file
+
 
 
 # Instructions
