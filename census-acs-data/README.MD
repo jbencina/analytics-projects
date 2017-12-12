@@ -1,5 +1,5 @@
 # Overview
-Parses ACS 1YR summary files into a single merged file. This script takes 3 ACS 1-yr
+Parses ACS 1YR summary files into a single merged file. This script takes 3 2016 ACS 1-yr
 quick table files at the **county** level and extracts a subset of columns as defined in headers.py.
 Each column is given a friendly name. The output of this script is:
 - A consolidated data file
