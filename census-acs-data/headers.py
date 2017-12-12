@@ -85,6 +85,7 @@ FILE_HEADERS = {
 
     ], 
     'DP05': [
+        ('VC03','E','PopTotal'),
         ('VC04','P','PopMale'),
         ('VC08','P','AgeUnder5'),
         ('VC09','P','Age5to9'),
