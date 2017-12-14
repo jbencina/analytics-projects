@@ -1,4 +1,7 @@
 # Overview
+
+**Update:** The BigQuery link below also has the 5YR 2016 ACS data so you can see more counties which are omitted from the 1YR due to smaller population sizes. The 5YR data was processed with the same script
+
 Parses ACS 1YR summary files into a single merged file. This script takes 3 2016 ACS 1-yr
 quick table files at the **county** level and extracts a subset of columns as defined in headers.py.
 Each column is given a friendly name. The output of this script is:
